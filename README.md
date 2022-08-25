@@ -1,0 +1,2 @@
+# puppet-hiera
+hiera learning
